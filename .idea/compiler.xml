@@ -23,8 +23,8 @@
       <module name="parent_test" target="1.7" />
       <module name="redux-redux_main" target="1.7" />
       <module name="redux-redux_test" target="1.7" />
-      <module name="redux_main" target="1.7" />
-      <module name="redux_test" target="1.7" />
+      <module name="redux_main" target="1.8" />
+      <module name="redux_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
