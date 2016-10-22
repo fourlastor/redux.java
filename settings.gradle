@@ -1,0 +1,3 @@
+include ':redux'
+
+rootProject.name = 'redux-root'

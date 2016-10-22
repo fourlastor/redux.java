@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":redux:test" external.linked.project.path="$MODULE_DIR$/../../redux" external.root.project.path="$MODULE_DIR$/../../redux" external.system.id="GRADLE" external.system.module.group="redux-root" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../redux/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../redux/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../redux/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../redux/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="redux_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="redux_main" />
+</module>
